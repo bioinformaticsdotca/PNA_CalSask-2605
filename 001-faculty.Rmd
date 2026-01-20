@@ -12,3 +12,33 @@ LOCATION
 
 BIO GOES HERE-->
 
+#### Richard LeDuc
+
+<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of NAME">
+
+>Director of Bioinformatics <br>
+Children's Hospital Research Institute of Manitoba <br>
+Winnipeg, Manitoba
+
+
+BIO GOES HERE
+
+#### Constance Li
+
+<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of NAME">
+
+>Assistant Professor <br>
+University of Calgary <br>
+Calgary, Alberta
+
+BIO GOES HERE
+
+#### Diogo Pellegrina
+
+<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of NAME">
+
+>Postdoctoral Researcher <br>
+Vaccine and Infectious Disease Organization <br>
+Saskatoon, Saskatchewan
+
+BIO GOES HERE
