@@ -1,19 +1,68 @@
-<!--
-IF YOUR WORKSHOP DOES NOT INCLUDE COMPUTE:
-- REMOVE "AND COMPUTE SETUP" FROM THE TOP-LEVEL HEADER
-- DELETE THE LAST SECTION (COMPUTE SETUP)
-
-IF YOUR WORKSHOP INCLUDES COMPUTE:
-- AFTER THE WORKSHOP, ADD DATA DOWNLOAD LINKS, AWS MACHINE IMAGE INSTRUCTIONS, ETC.
-- IF IT IS MORE APPROPRIATE, YOU CAN INCLUDE THE DATA DOWNLOAD LINKS IN EACH OF THE MODULES.
--->
-
 # Data and Compute Setup
 
-#### Course data downloads
-Coming soon!
+This workshop runs on your own laptop — there is no shared cloud compute environment to log into. The setup below mirrors the [pre-work form](https://docs.google.com/forms/d/e/1FAIpQLSean67e_BCOkdWTXLXUUk4c5CdGi6wjYKmQrph6xQJlMF0Qdw/viewform); please work through it before the workshop begins, as we will start where the pre-work leaves off. If you run into any issues, email <training@bioinformatics.ca> and we will help you troubleshoot.
 
-#### Compute setup
-Coming soon!
+## Laptop requirements
 
+You will need a laptop for this course. We prefer that students bring their own so that you are set up and ready to handle your own data after the workshop. If your laptop does not meet the minimum requirements listed below, contact <training@bioinformatics.ca> to arrange a loaner.
 
+**Minimum requirements:** 1024×768 screen resolution, 1.5 GHz CPU, 2 GB RAM, 10 GB free disk space, and a recent version of Windows, macOS, or Linux. Most computers purchased in the past 3–4 years meet these requirements.
+
+## Software installations
+
+Please install the following on the computer you will be working on (not your phone) before the workshop:
+
+- **A modern web browser** — Firefox, Safari, or Chrome. Do not use Internet Explorer.
+- **A PDF viewer** — Adobe Acrobat, Preview, or any equivalent. Reading PDFs in your browser is also fine.
+- **Slack (desktop app)** — install from <https://slack.com/>. Please install the desktop client on your workshop computer, not your phone.
+- **R (latest version)** — download and install from <https://cran.r-project.org/>. (~3 minutes)
+- **RStudio (recommended)** — download and install from <https://posit.co/download/rstudio-desktop/>. (~10 minutes; optional but strongly recommended.)
+
+### R packages
+
+Once R is installed, open R (or RStudio) and run the following commands to install the packages used in the labs:
+
+```{r eval=FALSE}
+install.packages(c("stringr", "ggplot2", "ggrepel", "gprofiler2"))
+
+if (!require("BiocManager", quietly = TRUE)) install.packages("BiocManager")
+BiocManager::install("DESeq2")
+BiocManager::install("fgsea")
+```
+
+If any package fails to install, email <training@bioinformatics.ca> with the error message and we will help you troubleshoot before the workshop.
+
+## Slack setup
+
+Communication during the workshop happens on Slack. Use the invitation link provided in your registration email to join the **Bioinformatics.ca** Slack workspace, then use the left sidebar to join the **#pna_calsask-2605** channel. If you have trouble joining, contact <training@bioinformatics.ca>.
+
+A few Slack features come up often during the workshop:
+
+- **Pinned messages** — important links (workshop website, lab data, etc.) are pinned to the channel. Click the pin icon near the top of the channel to view them.
+- **Save for later** — to bookmark a message for yourself, hover over it and click the bookmark icon. Saved messages appear in the **Later** folder in your sidebar (visible only to you).
+- **Reply in thread** — when answering an instructor or another student, hover over the message and click **Reply in thread**, so the discussion stays attached to its original message rather than scrolling away in the main channel.
+
+## Taking screenshots
+
+We often use screenshots in Slack to share output and troubleshoot problems. Make sure you know how to take a screenshot on your operating system:
+
+- **macOS:** <https://support.apple.com/en-ca/guide/mac-help/mh26782/mac>
+- **Windows:** <https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b>
+- **Linux:** <https://itsfoss.com/take-screenshot-linux/>
+
+## Pre-workshop reading
+
+Knowing some R is important for this workshop. If you are not yet comfortable in R, please work through the **GenViz Introduction to R** tutorial (~3 hours) on the computer you will use during the workshop:
+
+<https://genviz.org/module-02-r/0002/02/01/introductionToR/>
+
+The final exercise in the tutorial is optional and quite advanced — skip it if you run short on time. If you are already fluent in R, you can skip the tutorial entirely.
+
+## Course data downloads
+
+Lab data and scripts are bundled with each module. See the corresponding module page in the left sidebar for the download link:
+
+- **Module 2 — Differential Expression / Defined Gene Lists / Ranked Gene Lists:** [Lab2a.zip](content-files/labs/Lab2a.zip), [Lab2b.zip](content-files/labs/Lab2b.zip), [Lab2c.zip](content-files/labs/Lab2c.zip)
+- **Module 4 — Integrative Assignment:** [Lab4.zip](content-files/labs/Lab4.zip)
+
+Each archive contains the scripts, input data, and reference outputs used during the lab session. Module 1 and Module 3 do not have downloadable lab archives.
