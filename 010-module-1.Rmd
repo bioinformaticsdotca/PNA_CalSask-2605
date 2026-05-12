@@ -7,6 +7,7 @@ Module 1 is the workshop introduction. Use the Welcome deck below to follow alon
 ## Lecture
 
 - **Workshop Welcome:** [PPTX](content-files/slides/PNA_CalSask-2605_Welcome.pptx)
+- **Module 1 — Introduction to Pathway and Network Analysis (Richard LeDuc):** [PPTX](content-files/slides/PNA_CalSask-2605_Module1_Lecture.pptx)
 
 <!--<iframe width="640" height="360" src="YOUTUBE EMBED LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
