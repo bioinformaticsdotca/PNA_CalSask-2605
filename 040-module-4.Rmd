@@ -1,6 +1,18 @@
 # Module 4
 
+Module 4 is the integrative assignment, bringing together the methods from earlier modules. The workshop wrap-up deck is also linked here.
+
 ## Lecture
 
+- **Module 4 — Integrative Assignment (Constance Li):** [PDF](content-files/slides/PNA_CalSask-2605_Module4_Lecture.pdf) · [PPTX](content-files/slides/PNA_CalSask-2605_Module4_Lecture.pptx)
+- **Workshop Wrap-up:** [PPTX](content-files/slides/PNA_CalSask-2605_Wrap-up.pptx)
 
 ## Lab
+
+Lab slide deck:
+
+- **Module 4 Lab:** [PDF](content-files/slides/PNA_CalSask-2605_Module4_Lab.pdf) · [PPTX](content-files/slides/PNA_CalSask-2605_Module4_Lab.pptx)
+
+Lab materials (zipped — contains the input data for the integrative assignment):
+
+- **Lab 4 — Integrative Assignment:** [Download Lab4.zip](content-files/labs/Lab4.zip)

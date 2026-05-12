@@ -1,6 +1,22 @@
 # Module 2
 
+Module 2 covers three approaches to pathway and network analysis: differential expression (2a), defined gene lists (2b), and ranked gene lists (2c). Lecture slides and lab materials for each sub-module are linked below.
+
 ## Lecture
 
+- **Module 2a — Differential Expression (Constance Li):** [PDF](content-files/slides/PNA_CalSask-2605_Module2a_Lecture.pdf) · [PPTX](content-files/slides/PNA_CalSask-2605_Module2a_Lecture.pptx)
+- **Module 2b — Defined Gene Lists (Diogo Pellegrina):** [PPTX](content-files/slides/PNA_CalSask-2605_Module2B_lecture.pptx)
+- **Module 2c — Ranked Gene Lists (Constance Li):** [PDF](content-files/slides/PNA_CalSask-2605_Module2c_Lecture.pdf) · [PPTX](content-files/slides/PNA_CalSask-2605_Module2c_Lecture.pptx)
 
 ## Lab
+
+Lab slide decks:
+
+- **Module 2a Lab:** [PDF](content-files/slides/PNA_CalSask-2605_Module2a_Lab.pdf) · [PPTX](content-files/slides/PNA_CalSask-2605_Module2a_Lab.pptx)
+- **Module 2b Lab:** [PPTX](content-files/slides/PNA_CalSask-2605_Module2B_lab.pptx)
+
+Lab materials (zipped — contains scripts, data, and reference outputs):
+
+- **Lab 2a — Differential Expression:** [Download Lab2a.zip](content-files/labs/Lab2a.zip)
+- **Lab 2b — Defined Gene Lists:** [Download Lab2b.zip](content-files/labs/Lab2b.zip)
+- **Lab 2c — Ranked Gene Lists:** [Download Lab2c.zip](content-files/labs/Lab2c.zip)

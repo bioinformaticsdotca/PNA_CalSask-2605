@@ -1,6 +1,11 @@
 # Module 3
 
+Module 3 introduces Cytoscape for network visualization and enrichment-map analysis.
+
 ## Lecture
 
+- **Module 3 — Cytoscape (Diogo Pellegrina):** [PPTX](content-files/slides/PNA_CalSask-2605_Module3_lecture.pptx)
 
 ## Lab
+
+Lab materials for Module 3 will be posted here when available.
