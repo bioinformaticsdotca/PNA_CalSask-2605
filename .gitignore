@@ -3,3 +3,7 @@
 .RData
 .Ruserdata
 .DS_Store
+
+# Large/Binary files not tracked in git
+content-files/labs/BIOGRID-ORGANISM-*.tab3.zip
+docs/content-files/labs/BIOGRID-ORGANISM-*.tab3.zip

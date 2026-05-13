@@ -9,3 +9,4 @@ Module 3 introduces Cytoscape for network visualization and enrichment-map analy
 ## Lab
 
 - **Module 3 — Cytoscape Lab:** [Download Lab3.zip](content-files/labs/Lab3.zip)
+- **BIOGRID organism database:** [Download BIOGRID-ORGANISM-5.0.257.tab3.zip](https://downloads.thebiogrid.org/Download/BioGRID/Release-Archive/BIOGRID-5.0.257/BIOGRID-ORGANISM-5.0.257.tab3.zip)
