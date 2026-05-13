@@ -8,4 +8,4 @@ Module 3 introduces Cytoscape for network visualization and enrichment-map analy
 
 ## Lab
 
-Lab materials for Module 3 will be posted here when available.
+- **Module 3 — Cytoscape Lab:** [Download Lab3.zip](content-files/labs/Lab3.zip)
